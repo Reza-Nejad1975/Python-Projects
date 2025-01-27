@@ -1,8 +1,8 @@
 # Python-Projects
 ## Project 1: 
 ### Python code programming for "Management Downloads Folder" in network
-[Click here to download python code for this project](/Management_Download_folder.py) 
-[Also you can read the project report](/File Management Program Report.pdf)
+To download python code [click here for this project](/Management_Download_folder.py)
+and welcome to read the [project report](https://github.com/Reza-Nejad1975/Python-Projects/blob/main/File%20Management%20Program%20Report.pdf)
 
 ![image](https://github.com/user-attachments/assets/67e0c249-012f-4e2b-8a2f-5dcf1083db21)
 
