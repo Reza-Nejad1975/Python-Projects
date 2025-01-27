@@ -16,6 +16,8 @@ In the following is some code and library use for this project:
 ## Project 2: 
 ### Data Virtualisation and Dashboard 
 [Dashboard Report](https://github.com/Reza-Nejad1975/Python-Projects/blob/main/Online%20Sales%20Analystic%20Reza-1.xlsx)
+[Dashboard image](https://github.com/Reza-Nejad1975/Python-Projects/blob/main/Dashboard%20photo.png)
+![image](https://github.com/user-attachments/assets/9caf7dfa-1704-4b5f-b9c8-177829191e4f)
 
 
 
